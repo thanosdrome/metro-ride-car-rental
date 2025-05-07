@@ -331,9 +331,11 @@ nav .sticky{
     height: 50px;
     font-size: 16px;
     margin: 15px 0;
+    width: 100%;
 }
 .btn-car i{
     font-size: 16px;
+   
 }
 .btn-herocar{
     width: 276px;
